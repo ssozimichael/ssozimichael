@@ -16,4 +16,4 @@ I am a developer from Uganda, i am fascinated by technology, what it has achieve
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap Logo" width="100" height="100"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="tailwind Logo"  width="100" height="100"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="JavaScript Logo"  width="100" height="100"/> 
-<img src=
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="JavaScript Logo"  width="100" height="100"/>
